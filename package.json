@@ -1,0 +1,50 @@
+{
+  "name": "q9xj4qyv--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-base": "27.2.5",
+    "@syncfusion/ej2-buttons": "27.2.4",
+    "@syncfusion/ej2-calendars": "27.2.3",
+    "@syncfusion/ej2-compression": "27.2.2",
+    "@syncfusion/ej2-data": "27.2.2",
+    "@syncfusion/ej2-dropdowns": "27.2.5",
+    "@syncfusion/ej2-excel-export": "27.2.2",
+    "@syncfusion/ej2-file-utils": "27.2.2",
+    "@syncfusion/ej2-inputs": "27.2.4",
+    "@syncfusion/ej2-lists": "27.2.5",
+    "@syncfusion/ej2-navigations": "27.2.5",
+    "@syncfusion/ej2-popups": "27.2.2",
+    "@syncfusion/ej2-react-base": "27.2.2",
+    "@syncfusion/ej2-react-schedule": "27.2.5",
+    "@syncfusion/ej2-schedule": "27.2.5",
+    "@syncfusion/ej2-splitbuttons": "27.2.2",
+    "awesome-typescript-loader": "3.4.1",
+    "firebase": "^11.0.2",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "source-map-loader": "0.2.4",
+    "typescript": "3.9.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
